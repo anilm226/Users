@@ -1,0 +1,24 @@
+{ "Users": [
+    {
+        "empId": 1,
+         "name":"A", 
+         "email":"abc@gmail.com",
+         "mobile":"9876543210", 
+         "gender":"male"
+    },
+    {
+        "empId": 2, 
+        "name":"B", 
+        "email":"xyz@gmail.com",
+        "mobile":"9876543210", 
+        "gender":"female"
+    },
+    {
+        "empId": 3, 
+        "name":"C", 
+        "email":"xyz@gmail.com",
+        "mobile":"9876543210", 
+        "gender":"male"
+    }
+  ]
+}
